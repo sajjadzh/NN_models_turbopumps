@@ -1,5 +1,9 @@
 This repository contains the neural network models for prediction of tip clearance effects on the performance of radial turbopumps.  
 
+Each model can be opened in Julia programing language or MATLAB. Each model is saved in .jld2 and .mat formats for Julia programing language and MATLAB, respectively. 
+Upon reading each model by the appropriate language environment, it can be used to predict the head loss coefficient or the slip factor through the relationships presented in the paper.
+
+
 Citation:
 
 @inproceedings{Zakeralhoseini:289985,
